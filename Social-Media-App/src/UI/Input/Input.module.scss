@@ -1,0 +1,15 @@
+.label {
+  padding-top: 10px;
+  text-align: start;
+  font-weight: 700;
+}
+
+.input {
+  border-radius: 3px;
+  border: 1px solid black;
+  height: 25px;
+
+  &::placeholder {
+    font-family: "Montserrat", sans-serif;
+  }
+}

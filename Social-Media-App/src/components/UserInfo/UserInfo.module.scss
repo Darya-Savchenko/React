@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 15px 0;
+}
+.item {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
+
+.icon {
+  font-size: 2em;
+  margin: 5px;
+}
+
+.info {
+  font-weight: 400;
+}
+
+.category {
+  color: gray;
+}
+
+.infoContainer {
+  text-align: start;
+}
